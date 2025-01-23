@@ -19,6 +19,11 @@ public class ContactTest {
 	}
 
 	@Test
+	public void RenameContactTest() {
+		System.out.println("execute RenameContactTest");
+	}
+    
+	@Test
 	public void modifyContactTest() {
 		System.out.println("execute createContactTest");
 	}
